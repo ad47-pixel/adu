@@ -1,0 +1,28 @@
+                body{
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;		
+		}
+		#header{
+			height: 60px;
+			width: auto;
+			background:cyan;
+			text-align: center;
+		}
+		#main{
+			width: auto;
+			height: 1500px;
+			background: green;
+			background: wheat;
+		}
+		#fieldset{
+			background: coral;
+			text-align: center;
+		}
+		#footer{
+			clear: both;
+			background: coral;
+			width: auto;
+			height:50px;
+			text-align: center;
+		}
